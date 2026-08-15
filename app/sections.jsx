@@ -330,7 +330,7 @@ function About() {
       <div className="about-grid">
         <Reveal>
           <div className="about-portrait">
-            <img src="assets/rupal-portrait.png" alt="Rupal Mishra" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 4 }} />
+            <img src="app/assets/rupal-portrait.png" alt="Rupal Mishra" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: 4 }} />
             <span className="corner tl" /><span className="corner tr" />
             <span className="corner bl" /><span className="corner br" />
           </div>
@@ -436,7 +436,7 @@ const CASE_STUDIES = [
     problems: ['Lack of job opportunities', 'Unfair compensation for artists', 'Limited exposure for local and hidden talent', 'Restricted artist–client direct connections'],
     solutions: ['Direct artist–client connections', 'Job opportunities for artists', 'Empowering local art', 'Fair pay for artists'],
     tags: ['App Design', 'Product Design', 'UX Research'],
-    cover: 'assets/cs-lokkatha.jpg',
+    cover: 'app/assets/cs-lokkatha.jpg',
   },
   {
     title: 'Instagram Stories — A Feature Enhancement Case Study',

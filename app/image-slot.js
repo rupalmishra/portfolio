@@ -91,7 +91,10 @@
 /* END USAGE */
 
 (() => {
-  const STATE_FILE = '.image-slots.state.json';
+  const currentScript = document.currentScript && document.currentScript.src
+    ? new URL(document.currentScript.src, document.baseURI)
+    : new URL(document.baseURI);
+  const STATE_FILE = new URL('./.image-slots.state.json', currentScript).toString();
 
   // Unsplash terms require visible attribution wherever their photos
   // display, and every link back to unsplash.com must carry utm referral
