@@ -366,11 +366,11 @@ function About() {
 const WORKS = [
   {
     num: '01',
-    title: 'ECAP File Manager — eFiling',
+    title: 'ECAP File Manager — EFiling',
     tags: ['Enterprise', 'B2B', 'Low-code', 'DMS'],
     link: '#',
     summary:
-      'Turned research and audit findings into shipped production features — Save Draft, cross-record file movement, external file sharing, advanced filters, and the Quick Start Dashboard — each one simplifying a core file management task.',
+      'Turned research and audit findings into shipped production features — Save Draft, Cross-record File Movement, File Sharing, Advanced Filters, and the Quick Start Dashboard — each one simplifying a core file management task.',
   },
   {
     num: '02',
