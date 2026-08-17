@@ -345,8 +345,7 @@ function About() {
         <Reveal as="div" className="about-text" delay={120}>
           <h2>Design that pays attention, so people don't have to.</h2>
           <p className="lead">
-            Most of my work lives inside dense, high-stakes enterprise software — the kind
-            people use for eight hours a day, not eight minutes.
+            Most of my work is inside dense, high-stakes enterprise software: tools people are stuck in for 8 hours a day.
           </p>
           <p>
             At Escriba, I'm the UX voice on enterprise workflow platforms trusted by
