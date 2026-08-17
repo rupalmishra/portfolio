@@ -349,8 +349,6 @@ function About() {
           </p>
           <p>
             At Escriba, I work on enterprise workflow platforms used by companies like Siemens and Schindler in Germany. Most of my job is taking old, tangled processes and making them simple enough that people can actually get through their day without fighting the tool.
-
-            Off the clock, I'm probably staring at the moon and thinking about moving to NYC.
           </p>
           <p>
             Off the clock, I'm probably gazing at the moon and dreaming about NYC.
